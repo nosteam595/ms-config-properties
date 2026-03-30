@@ -1,1 +1,2 @@
-field: 890-dev
+test-property:
+  field: "890-dev"
